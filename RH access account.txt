@@ -1,3 +1,4 @@
+#RH customer portal accout
 username:EricChenlenovo
 password:Y5tyZqEHk3
 subscription-manager register --username=huangyx3@lenovo.com --password=1qaz2wsx 
