@@ -1,0 +1,39 @@
+RH repos:
+Red Hat Enterprise Linux 7 Server (RPMs)
+Red Hat Satellite Tools 6.3 (for RHEL 7 Server) (RPMs)
+Red Hat Software Collections RPMs for Red Hat Enterprise Linux 7 Server
+Red Hat Enterprise Linux 7 Server - Optional (RPMs)
+Red Hat Enterprise Linux 7 Server - Extras (RPMs)
+Red Hat Enterprise Linux 7 Server - Fastrack (RPMs)
+Red Hat Enterprise Linux 7 Server - RH Common (RPMs)
+Red Hat Enterprise Linux Fast Datapath (RHEL 7 Server) (RPMs)
+Red Hat Enterprise Linux High Availability (for RHEL 7 Server) (RPMs)
+Red Hat Enterprise Linux 7 Server - Supplementary (RPMs)
+Red Hat OpenStack Platform 10 for RHEL 7 (RPMs)
+Red Hat OpenStack Platform 10 Developer Tools for RHEL 7 (RPMs)
+Red Hat OpenStack Platform 10 Operational Tools for RHEL 7 (RPMs)
+Red Hat OpenStack Platform 10 Tools for RHEL 7 Server (RPMs)
+Red Hat Ceph Storage MON 2 for Red Hat Enterprise Linux 7 Server (RPMs)
+Red Hat Ceph Storage Tools 3 for Red Hat Enterprise Linux 7 Server (RPMs)
+Red Hat Ceph Storage MON 3 for Red Hat Enterprise Linux 7 Server (RPMs)
+Red Hat Ceph Storage OSD 3 for Red Hat Enterprise Linux 7 Server (RPMs)
+
+Lenovo yum repos:
+https://linux.lenovo.com/yum/2017_12/repos/RHEL6.8/
+https://linux.lenovo.com/yum/2017_12/repos/RHEL6.9/
+https://linux.lenovo.com/yum/2017_12/repos/RHEL7.2/
+https://linux.lenovo.com/yum/2017_12/repos/RHEL7.3/
+https://linux.lenovo.com/yum/2017_12/repos/RHEL7.4/
+https://linux.lenovo.com/yum/2017_12/repos/SLES11SP4_Default/
+https://linux.lenovo.com/yum/2017_12/repos/SLES11SP4_XEN/
+https://linux.lenovo.com/yum/2017_12/repos/SLES12SP2/
+https://linux.lenovo.com/yum/2017_12/repos/SLES12SP3/
+https://linux.lenovo.com/yum/latest/repos/RHEL6.8/
+https://linux.lenovo.com/yum/latest/repos/RHEL6.9/
+https://linux.lenovo.com/yum/latest/repos/RHEL7.2/
+https://linux.lenovo.com/yum/latest/repos/RHEL7.3/
+https://linux.lenovo.com/yum/latest/repos/RHEL7.4/
+https://linux.lenovo.com/yum/latest/repos/SLES11SP4_Default/
+https://linux.lenovo.com/yum/latest/repos/SLES11SP4_XEN/
+https://linux.lenovo.com/yum/latest/repos/SLES12SP2/
+https://linux.lenovo.com/yum/latest/repos/SLES12SP3/
