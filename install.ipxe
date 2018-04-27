@@ -1,0 +1,8 @@
+#!ipxe
+
+set base http://mirrors.163.com/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso
+
+prompt -k 0x197e -t 2000 Press F12 to install CentOS... || exit
+kernel ${base}/images/pxeboot/vmlinuz initrd=initrd.img repo=${base}
+initrd ${base}/images/pxeboot/initrd.img
+boot
